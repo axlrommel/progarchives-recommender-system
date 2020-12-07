@@ -1,7 +1,7 @@
 {
-  "name": "progarchives-scrapper",
+  "name": "progarchives-scraper",
   "version": "1.0.0",
-  "description": "prograrchives-scrapper",
+  "description": "prograrchives-scraper",
   "main": "index.js",
   "scripts": {
     "start": "browser-sync start --server --directory --files \"*/**\""
@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/axlrommel/progarchives-scrapper/issues"
   },
-  "homepage": "https://github.com/axlrommel/progarchives-scrapper#readme",
+  "homepage": "https://github.com/axlrommel/progarchives-scraper#readme",
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
     "csv-writer": "^1.6.0",
