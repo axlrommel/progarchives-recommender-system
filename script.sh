@@ -1,0 +1,1 @@
+echo | awk '{ for(i = 11; i < 64100; i++) print "node index.js "i}' > qq.sh

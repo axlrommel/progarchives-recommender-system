@@ -57,6 +57,6 @@ const progReviews = `http://www.progarchives.com/Collaborators.asp?id=${myArgs[0
     );
     process.exit(0);
   } catch (error) {
-    //do nothing
+    process.exit(0);
   }
 })();
